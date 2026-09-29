@@ -1,0 +1,123 @@
+﻿id_credito,cliente,fecha_desembolso,monto,plazo_meses,segmento,region,dias_atraso
+CR00601,"CRUZ RÍOS, Lucía",11/11/2025,"S/ 3,374.89",24,Consumo,Lima,0
+CR00602,"QUISPE MENDOZA, Luis",19/11/2025,"S/ 19,914.20",12,microempresa,Junín,0
+CR00603,"PAREDES CHÁVEZ, Edwin",15/11/2025,"S/ 15,700.44",36,Microempresa ,Puno,0
+CR00604,"CHÁVEZ FLORES, Diego",16/10/2025,"S/ 19,597.69",24,Microempresa,Junín,0
+CR00605,"PAREDES CRUZ, Luis",12/10/2025,"S/ 95,701.90",36,Pequeña empresa ,Arequipa,0
+CR00606,"VARGAS CHÁVEZ, Lucía",07/11/2025,"S/ 17,002.94",36,Consumo,Cusco,0
+CR00607,"CCORI MENDOZA, Miguel",18/10/2025,"S/ 14,971.47",12,Microempresa,Lima,0
+CR00608,"RÍOS CONDORI, Pedro",16/11/2025,"S/ 25,030.54",36,Consumo,Puno,0
+CR00609,"TORRES TORRES, José",02/10/2025,"S/ 6,908.44",48,Microempresa,Arequipa,0
+CR00610,"SALAZAR TORRES, Carlos",18/11/2025,"S/ 114,914.00",60,Pequeña empresa,Piura,0
+CR00611,"RAMOS CHÁVEZ, Carlos",21/10/2025,"S/ 11,078.34",12,Microempresa,La Libertad,9
+CR00612,"SALAZAR RAMOS, Lucía",20/11/2025,"S/ 82,688.36",240,Hipotecario,Piura,0
+CR00613,"FLORES CONDORI, Elena",03/11/2025,"S/ 22,393.25",24,Consumo,La Libertad,0
+CR00614,"VARGAS GÓMEZ, Carlos",09/11/2025,"S/ 8,836.32",6,consumo,Cusco,14
+CR00615,"FLORES HUAMÁN, Ana",10/10/2025,"S/ 8,036.50",60,Microempresa,Junín,0
+CR00616,"RÍOS GÓMEZ, Jorge",24/11/2025,"S/ 23,089.92",12,consumo,Piura,0
+CR00617,"RÍOS SALAZAR, Elena",18/10/2025,"S/ 14,920.40",48,microempresa,Cusco,0
+CR00618,"MAMANI CHÁVEZ, Edwin",18/10/2025,"S/ 19,340.27",48,microempresa,Junín,172
+CR00619,"HUAMÁN CRUZ, Pedro",07/11/2025,"S/ 114,509.71",24,Pequeña empresa ,Lima,48
+CR00620,"CASTRO SALAZAR, Valeria",26/11/2025,"S/ 74,363.40",6,Pequeña empresa ,Cusco,28
+CR00621,"CONDORI MENDOZA, Diego",15/11/2025,"S/ 23,023.50",6,microempresa,Cusco,0
+CR00622,"RAMOS SÁNCHEZ, Miguel",08/10/2025,"S/ 3,049.37",48,Microempresa,Lima,0
+CR00623,"CHÁVEZ MENDOZA, Jorge",20/10/2025,"S/ 80,087.68",48,Pequeña empresa,Puno,0
+CR00624,"APAZA APAZA, Valeria",10/10/2025,"S/ 342,555.86",180,Hipotecario ,Puno,0
+CR00625,"CCORI CCORI, Lucía",07/10/2025,"S/ 3,136.43",60,Consumo,La Libertad,0
+CR00626,"CASTRO HUAMÁN, Jorge",25/10/2025,"S/ 26,345.01",18,Consumo,Arequipa,
+CR00627,"CONDORI CCORI, Elena",27/11/2025,"S/ 20,906.03",48,microempresa,Lima,0
+CR00628,"CONDORI APAZA, Carlos",05/10/2025,"S/ 4,206.31",6,Microempresa,Puno,0
+CR00629,"TORRES CHÁVEZ, Carlos",05/11/2025,"S/ 164,742.41",300,Hipotecario,Arequipa,5
+CR00630,"MENDOZA TORRES, Elena",21/10/2025,"S/ 9,217.47",60,microempresa,Piura,0
+CR00631,"CONDORI HUAMÁN, José",30/10/2025,"S/ 23,646.42",6,Microempresa,Junín,0
+CR00632,"APAZA CASTRO, Sofía",27/11/2025,"S/ 12,728.69",36,Microempresa,Piura,0
+CR00633,"CHÁVEZ ROJAS, Rosa",19/11/2025,"S/ 16,437.93",36,Microempresa ,Cusco,27
+CR00634,"SÁNCHEZ SÁNCHEZ, Jorge",02/10/2025,"S/ 5,135.38",6,microempresa,Arequipa,31
+CR00635,"MAMANI RAMOS, Carlos",29/11/2025,"S/ 16,667.01",36,consumo,Cusco,0
+CR00636,"GÓMEZ HUAMÁN, Rosa",10/11/2025,"S/ 114,197.46",48,Pequeña empresa,Puno,0
+CR00637,"HUAMÁN CONDORI, José",04/10/2025,"S/ 10,575.83",48,Consumo,La Libertad,0
+CR00638,"TORRES ROJAS, José",12/10/2025,"S/ 18,237.01",48,consumo,Piura,13
+CR00639,"HUAMÁN HUAMÁN, Sofía",03/10/2025,"S/ 19,267.76",36,microempresa,Arequipa,0
+CR00640,"CCORI MAMANI, Luis",09/10/2025,"S/ 11,637.51",18,consumo,Puno,111
+CR00641,"VARGAS TORRES, Ana",19/10/2025,"S/ 29,205.17",6,Consumo,Junín,52
+CR00642,"CONDORI MAMANI, Elena",17/10/2025,"S/ 4,282.24",60,Microempresa,Cusco,0
+CR00643,"APAZA CASTRO, Ana",20/11/2025,"S/ 68,332.27",24,pequeña empresa,Lima,11
+CR00644,"SÁNCHEZ SALAZAR, Carmen",13/11/2025,"S/ 6,258.50",60,microempresa,Arequipa,11
+CR00645,"SALAZAR RÍOS, Carlos",23/10/2025,"S/ 17,745.31",24,Microempresa,Piura,0
+CR00646,"SALAZAR GÓMEZ, Diego",30/11/2025,"S/ 13,348.90",36,Microempresa,Puno,0
+CR00647,"PAREDES RÍOS, María",05/11/2025,"S/ 30,979.45",60,Pequeña empresa ,Puno,92
+CR00648,"CHÁVEZ PAREDES, Carlos",17/10/2025,"S/ 11,278.78",12,microempresa,Arequipa,0
+CR00649,"MENDOZA TORRES, Carmen",13/10/2025,"S/ 15,338.03",24,Microempresa ,Cusco,0
+CR00650,"CRUZ CCORI, Pedro",03/11/2025,"S/ 7,153.36",24,consumo,Piura,0
+CR00651,"PAREDES ROJAS, Pedro",12/11/2025,"S/ 61,918.34",12,Pequeña empresa ,Junín,0
+CR00652,"RÍOS SÁNCHEZ, José",04/11/2025,"S/ 14,375.87",18,Microempresa,Arequipa,0
+CR00653,"SÁNCHEZ CRUZ, Jorge",19/10/2025,"S/ 240,234.44",180,Hipotecario,Arequipa,0
+CR00654,"PAREDES GÓMEZ, Luis",20/10/2025,"S/ 22,344.65",6,Microempresa,Arequipa,0
+CR00655,"RÍOS FLORES, Lucía",11/10/2025,"S/ 343,328.68",300,Hipotecario,La Libertad,0
+CR00656,"MAMANI HUAMÁN, Jorge",25/11/2025,"S/ 2,221.60",6,Microempresa ,La Libertad,0
+CR00657,"SALAZAR TORRES, María",07/11/2025,"S/ 13,089.82",36,Microempresa ,Arequipa,0
+CR00658,"TORRES QUISPE, Sofía",22/10/2025,"S/ 254,558.01",240,hipotecario,Puno,1
+CR00659,"GÓMEZ CCORI, Carmen",08/11/2025,"S/ 32,225.57",60,Pequeña empresa ,Puno,0
+CR00660,"HUAMÁN ROJAS, Diego",26/10/2025,"S/ 12,935.84",48,Consumo ,Junín,0
+CR00661,"CRUZ QUISPE, Valeria",08/11/2025,"S/ 15,575.47",24,Microempresa ,La Libertad,19
+CR00662,"CCORI CRUZ, Elena",09/11/2025,"S/ 26,234.36",6,Consumo,Puno,0
+CR00663,"SALAZAR APAZA, Luis",09/10/2025,"S/ 1,572.83",6,Consumo,Arequipa,46
+CR00664,"SALAZAR SÁNCHEZ, Edwin",08/10/2025,"S/ 24,401.91",6,Consumo ,Arequipa,0
+CR00665,"CONDORI QUISPE, José",31/10/2025,"S/ 25,404.84",48,Consumo,Arequipa,0
+CR00666,"MAMANI CCORI, José",08/11/2025,"S/ 13,843.78",24,Consumo,Piura,0
+CR00667,"GÓMEZ ROJAS, Ana",05/10/2025,"S/ 20,106.00",24,Microempresa,Junín,0
+CR00668,"GÓMEZ SALAZAR, José",23/11/2025,"S/ 11,337.78",18,Microempresa,Puno,0
+CR00669,"SÁNCHEZ QUISPE, María",05/11/2025,"S/ 97,608.57",18,pequeña empresa,Puno,0
+CR00670,"CCORI ROJAS, Valeria",20/11/2025,"S/ 18,774.89",48,Microempresa,Cusco,0
+CR00671,"MENDOZA VARGAS, Luis",19/11/2025,"S/ 29,666.82",60,Consumo,La Libertad,0
+CR00672,"SALAZAR CRUZ, Carlos",22/10/2025,"S/ 15,472.89",18,Consumo,Puno,0
+CR00673,"FLORES ROJAS, Edwin",30/11/2025,"S/ 1,508.97",48,Consumo,La Libertad,0
+CR00674,"HUAMÁN RÍOS, Diego",12/10/2025,"S/ 2,904.34",48,Microempresa,Cusco,0
+CR00675,"APAZA CONDORI, Carlos",08/10/2025,"S/ 16,598.50",24,Consumo,Puno,0
+CR00676,"APAZA TORRES, Edwin",24/10/2025,"S/ 9,064.41",6,Microempresa,Cusco,6
+CR00677,"RAMOS FLORES, José",27/10/2025,"S/ 95,986.44",36,pequeña empresa,La Libertad,0
+CR00678,"PAREDES CONDORI, Jorge",28/11/2025,"S/ 9,628.18",60,Microempresa,Lima,137
+CR00679,"CCORI HUAMÁN, Carmen",18/10/2025,"S/ 17,029.49",6,microempresa,Arequipa,0
+CR00680,"RÍOS CCORI, Carlos",22/11/2025,"S/ 9,200.37",6,Microempresa,Cusco,0
+CR00681,"QUISPE TORRES, José",19/11/2025,"S/ 23,643.11",6,Microempresa,Arequipa,28
+CR00682,"GÓMEZ MAMANI, Elena",11/10/2025,"S/ 19,999.27",6,Consumo,Junín,0
+CR00683,"PAREDES RAMOS, Lucía",24/11/2025,"S/ 77,204.95",60,Pequeña empresa,La Libertad,32
+CR00684,"GÓMEZ ROJAS, Edwin",18/10/2025,"S/ 93,103.43",120,Hipotecario,Junín,51
+CR00685,"QUISPE APAZA, Miguel",03/11/2025,"S/ 52,009.68",60,Pequeña empresa,Junín,66
+CR00686,"GÓMEZ PAREDES, Rosa",28/11/2025,"S/ 4,891.22",60,Consumo ,Puno,0
+CR00687,"CHÁVEZ FLORES, María",18/10/2025,"S/ 19,853.20",36,Microempresa,La Libertad,0
+CR00688,"GÓMEZ TORRES, Miguel",16/11/2025,"S/ 17,925.72",24,microempresa,Junín,1
+CR00689,"SALAZAR HUAMÁN, Jorge",24/10/2025,"S/ 28,690.50",12,consumo,Piura,32
+CR00690,"SÁNCHEZ GÓMEZ, Luis",16/11/2025,"S/ 89,693.04",48,Pequeña empresa,Cusco,160
+CR00691,"MAMANI PAREDES, Rosa",05/11/2025,"S/ 17,889.93",12,Microempresa,La Libertad,0
+CR00692,"QUISPE APAZA, Carlos",28/11/2025,"S/ 8,644.43",48,Microempresa,Piura,129
+CR00693,"RÍOS APAZA, Carmen",18/10/2025,"S/ 16,743.01",18,Consumo ,Puno,0
+CR00694,"APAZA CHÁVEZ, Jorge",11/10/2025,"S/ 10,652.90",36,microempresa,La Libertad,
+CR00695,"CCORI HUAMÁN, José",21/11/2025,"S/ 7,840.90",18,Consumo ,Lima,0
+CR00696,"TORRES RAMOS, Miguel",23/11/2025,"S/ 27,313.59",6,Consumo,Piura,0
+CR00697,"ROJAS GÓMEZ, María",16/10/2025,"S/ 24,656.33",6,Consumo,Cusco,0
+CR00698,"PAREDES RAMOS, María",11/11/2025,"S/ 15,317.80",36,Consumo,Lima,181
+CR00699,"RAMOS GÓMEZ, Edwin",01/10/2025,"S/ 16,228.04",18,Consumo,La Libertad,0
+CR00700,"RÍOS QUISPE, Edwin",26/10/2025,"S/ 16,537.60",24,consumo,Cusco,0
+CR00701,"MAMANI FLORES, Luis",04/10/2025,"S/ 2,502.35",6,Microempresa,Lima,0
+CR00702,"RAMOS PAREDES, Edwin",09/11/2025,"S/ 15,981.59",48,Microempresa ,Cusco,0
+CR00703,"RÍOS HUAMÁN, Jorge",08/10/2025,"S/ 19,447.03",24,Consumo,Puno,0
+CR00704,"APAZA SALAZAR, Rosa",07/11/2025,"S/ 269,187.83",240,Hipotecario,Cusco,0
+CR00705,"SALAZAR PAREDES, Luis",14/11/2025,"S/ 9,290.34",18,consumo,Puno,0
+CR00706,"VARGAS CCORI, Edwin",06/11/2025,"S/ 24,652.94",6,Consumo,Piura,0
+CR00707,"MAMANI RAMOS, María",18/11/2025,"S/ 12,158.65",24,Microempresa,Cusco,0
+CR00708,"SALAZAR QUISPE, Rosa",10/11/2025,"S/ 75,798.14",18,Pequeña empresa,Cusco,0
+CR00709,"CHÁVEZ SÁNCHEZ, Pedro",30/10/2025,"S/ 4,615.31",36,Microempresa,Puno,0
+CR00710,"CRUZ MENDOZA, Diego",23/11/2025,"S/ 11,351.97",18,Microempresa,La Libertad,0
+CR00711,"MAMANI VARGAS, Sofía",12/11/2025,"S/ 22,429.98",24,Microempresa ,La Libertad,0
+CR00712,"HUAMÁN SALAZAR, Valeria",25/10/2025,"S/ 8,849.83",24,Consumo ,Puno,0
+CR00713,"APAZA CCORI, Luis",05/11/2025,"S/ 24,957.54",12,Microempresa,Arequipa,0
+CR00714,"SÁNCHEZ GÓMEZ, Sofía",10/11/2025,"S/ 21,041.60",48,Microempresa ,La Libertad,0
+CR00715,"SALAZAR TORRES, Ana",28/10/2025,"S/ 272,314.30",240,hipotecario,Junín,43
+CR00716,"CCORI SALAZAR, José",15/10/2025,"S/ 106,230.86",24,Pequeña empresa,La Libertad,0
+CR00717,"QUISPE APAZA, Edwin",27/10/2025,"S/ 18,939.11",36,Consumo,Puno,0
+CR00718,"CASTRO ROJAS, Ana",19/10/2025,"S/ 12,523.71",60,Microempresa ,Cusco,0
+CR00719,"CCORI SÁNCHEZ, Valeria",01/11/2025,"S/ 21,187.46",6,Microempresa ,La Libertad,0
+CR00720,"CCORI VARGAS, Lucía",01/11/2025,"S/ 15,400.74",60,consumo,Piura,0
+CR00608,"RÍOS CONDORI, Pedro",16/11/2025,"S/ 25,030.54",36,Consumo,Puno,0
+CR00664,"SALAZAR SÁNCHEZ, Edwin",08/10/2025,"S/ 24,401.91",6,Consumo ,Arequipa,0
